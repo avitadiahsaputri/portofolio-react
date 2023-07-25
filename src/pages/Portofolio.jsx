@@ -12,15 +12,14 @@ const Portofolio = () => {
     {
       id: 2,
       img: "/Avita Web.jpg",
-      link: "https://github.com/avitadiahsaputri/iventory-gudang.git",
-      addtion: "Web",
+         addtion: "Web",
             by: " by: PUB training center",
 
     },
     {
       id: 3,
       img: "/Avita Fundamental.jpg",
-      link: "https://github.com/hanafiahlubis/penjualan-Al-quran-hadits/",
+      
       addtion: "Node.js fundamental",
             by: " by: PUB training center",
 
@@ -28,21 +27,21 @@ const Portofolio = () => {
     {
       id: 4,
       img: "/Avita Lanjutan.jpg",
-      link: "https://github.com/hanafiahlubis/penjualan-Al-quran-hadits/",
+      
       addtion: "Node.js lanjutan",
             by: " by: PUB training center",
     },
     {
       id: 5,
       img: "/sertifikat_course_SQL.jpg",
-      link: "https://github.com/hanafiahlubis/penjualan-Al-quran-hadits/",
+      
       addtion: "SQL",
       by: " by: dicoding",
     },
     {
       id: 6,
       img: "/sertifikat_digoding javaSripct-1.jpg",
-      link: "https://github.com/hanafiahlubis/penjualan-Al-quran-hadits/",
+      
       addtion: "JavaScript",
       by: " by: dicoding",
     },

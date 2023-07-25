@@ -25,7 +25,7 @@ const Project = () => {
     {
       id: 3,
       img: "/Portofolio.png",
-      link: "https://github.com/hanafiahlubis/penjualan-Al-quran-hadits/",
+      link: "https://github.com/avitadiahsaputri/portofolio-react",
       name: "portofolio",
       addtion: "react.js,talwinds",
       dectiption:
