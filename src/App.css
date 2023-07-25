@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+li {
+    cursor: pointer;
+}
+
+.menu-item {
+  position: relative;
+}
+
+.menu-item::after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background-color: transparent;
+  transition: width 0.3s ease-in-out;
+}
+
+.menu-item:hover::after {
+  width: 100%;
+  background-color: white;
+}
+
+
+  .contact-col {
+    width: 20%;
+    border-right: 1px solid gray;
+  }
+
+  .detail-col {
+    width: 20%;
+  }
+
+  @media (max-width: 767px) {
+    .flex-wrap {
+      flex-wrap: wrap;
+    }
+  }
+
+  
